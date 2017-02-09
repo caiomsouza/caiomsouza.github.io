@@ -6,19 +6,26 @@ layout: page
 
 <p>
 Father of two girls, entrepreneur, data scientist, consultant, instructor, blogger, Pentaho DW/BI and Big Data Specialist. Fluent in English, Spanish and Portuguese. Learning IT and FR.
+</p>
 
-- Working with Pentaho technologies since 2006 (Tested the 1.2 version and implemented a real project in a real client in production using 1.6 GA);
-- Specialist in Business Intelligence and Big Data Projects using Pentaho BI Suite and other Open Source Technologies;
-- Open Data Volunteer;
-- International experience.
-- Sales experience.
-- Project management experience.
-- Product development experience.
 
+<ul class="skill-list">
+<li> Working with Pentaho technologies since 2006 (Tested the 1.2 version and implemented a real project in a real client in production using 1.6 GA);</li>
+<li> Specialist in Business Intelligence and Big Data Projects using Pentaho BI Suite and other Open Source Technologies;</li>
+<li> Open Data Volunteer;</li>
+<li> International experience.</li>
+<li> Sales experience.</li>
+<li> Project management experience.</li>
+<li> Product development experience.</li>
+</ul>
+
+
+<p>
 Specialties: Open Source Technologies, Business Intelligence, Machine Learning, Artificial Intelligence, Data Warehouse, Data Marts, Pentaho BI Suite, Mondrian, Java, PostgreSQL, Linux, Big Data, Hadoop, Spark, Pig, Hive, R, SAS, Python and Open Data.
+</p>
 
+<p>
 Nationality: Brazilian and Spanish.
-
 </p>
 
 <h2>Skills</h2>
