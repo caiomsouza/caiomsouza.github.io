@@ -3,7 +3,7 @@ name: Caio Moreno de Souza
 bio: Creating solutions to improve humans life
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and stuff related Test
 
 # if it's an external image, update below for true
 # better with square images
@@ -37,21 +37,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: caiomsouza
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: caiomsouza
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: caiomsouza
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: caiofern@ucm.es
 
 authors:
     johndoe:
