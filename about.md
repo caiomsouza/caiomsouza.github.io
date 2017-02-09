@@ -29,6 +29,7 @@ Nationality: Brazilian and Spanish.
 	<li>Machine Learning</li>
 	<li>Artificial Intelligence</li>	
 	<li>Git</li>
+	<li>Java</li>
 	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
