@@ -4,43 +4,44 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+Father of two girls, entrepreneur, data scientist, consultant, instructor, blogger, Pentaho DW/BI and Big Data Specialist. Fluent in English, Spanish and Portuguese. Learning IT and FR.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+- Working with Pentaho technologies since 2006 (Tested the 1.2 version and implemented a real project in a real client in production using 1.6 GA);
+- Specialist in Business Intelligence and Big Data Projects using Pentaho BI Suite and other Open Source Technologies;
+- Open Data Volunteer;
+- International experience.
+- Sales experience.
+- Project management experience.
+- Product development experience.
+
+Specialties: Open Source Technologies, Business Intelligence, Machine Learning, Artificial Intelligence, Data Warehouse, Data Marts, Pentaho BI Suite, Mondrian, Java, PostgreSQL, Linux, Big Data, Hadoop, Spark, Pig, Hive, R, SAS, Python and Open Data.
+
+Nationality: Brazilian and Spanish.
+
+</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Pentaho</li>
+	<li>Big Data</li>
+	<li>Machine Learning</li>
+	<li>Artificial Intelligence</li>	
 	<li>Git</li>
 	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
+	<li>R</li>	
+	<li>SAS</li>		
+	<li>Sales</li>	
+	<li>Project management</li>		
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/caiomsouza">Some of my public projects are in my github</a></li>
 </ul>
