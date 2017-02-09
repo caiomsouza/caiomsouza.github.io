@@ -17,7 +17,4 @@ description: AI Era
 
 There is very good article about AI.
 
-https://www.bloomberg.com/professional/blog/artificial-intelligence-disruption-era-begins/
-
-
 [Artificial intelligence: Disruption era begins](https://www.bloomberg.com/professional/blog/artificial-intelligence-disruption-era-begins/)
