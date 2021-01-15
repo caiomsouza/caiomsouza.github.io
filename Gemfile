@@ -1,13 +1,6 @@
-source 'http://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'rake'
-gem 'rouge'
-gem 'html-proofer'
-gem 'jemoji'
-gem 'jekyll-mentions'
-gem 'jekyll-seo-tag'
-gem 'jekyll-feed'
-gem 'jekyll-sitemap'
-gem 'jekyll-gist'
-gem 'jekyll-paginate'
+gem "jekyll"
+gem "jekyll-watch"
+gem "jekyll-sitemap"
+gem "jekyll-redirect-from"
